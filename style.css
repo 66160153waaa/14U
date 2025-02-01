@@ -73,7 +73,10 @@ button:focus {
     background-color: #ff4d4d;
     color: white;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    top: 50px;
+    right: 50px;
 }
+
 
 .no-btn:hover {
     background-color: #e43e3e;
